@@ -1,12 +1,9 @@
 # 欢迎Star，感谢Star~
 
-# Deep-Learning-With-Python [{新书上线啦，可点击此处购买}](https://item.jd.com/13067946.html) 
-《Python深度学习》数据[{提取码：9527 }](https://pan.baidu.com/s/1RTGmhTg_Fow1vxcF56OOmA)
-
-![image](https://github.com/ChileWang0228/Deep-Learning-With-Python/blob/master/images/Python%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E4%BD%93%E7%B3%BB.png)
-
-
 # 自然语言处理——原理、方法与应用（计算机技术开发与应用丛书） [{新书上线啦，可点击此处购买}](https://item.jd.com/13853252.html) 
+
+## 《自然语言处理——原理、方法与应用》数据[{提取码：9527 }](https://pan.baidu.com/s/1_O7YnnojcEuLJByJdbSjlQ)
+  
 * 1.七个国家级竞赛获奖代码
 
 * 2.一套代码，七个项目，学习成本低。
@@ -20,7 +17,7 @@
 
 # 前言
 
-* 当你看到前言的时候，说明你已经在深度学习的求知路途上做了一个事半功倍的抉择。笔者很高兴能在研究生阶段将自己所学以书本的形式结构化地记录下来，并改变这本书读者的所思、所想与所学。在聊完稿的感想之前，首先给大家一个本书所有配套源码和说明的[链接](https://github.com/ChileWang0228/Deep-Learning-With-Python)。大家可以在Github上对不懂的内容进行提问，笔者也会尽可能地帮助大家解决问题。
+* 当你看到前言的时候，说明你已经在深度学习的求知路途上做了一个事半功倍的抉择。笔者很高兴能在研究生阶段将自己所学以书本的形式结构化地记录下来，并改变这本书读者的所思、所想与所学。在聊完稿的感想之前，首先给大家一个本书所有配套源码和说明的[链接](https://github.com/ChileWang0228/NLP_Learning_Project)。大家可以在Github上对不懂的内容进行提问，笔者也会尽可能地帮助大家解决问题。
 
 * 接下来唠嗑一下这本书，写此书的理由是来自笔者个人的知乎博客：阿力阿哩哩。笔者经常在知乎、B站和微信公众号上发表自己学过的知识，总结自己的经验与见解。从一个过来人的身份来说，笔者很能理解深度学习初学者的心情，那种面对浩如烟海的深度学习知识却不知从何学起的“迷茫”成为了所有初学者的学习历程的绊脚石。一条行之有效的学习路径是每一个初学者当前所急需的。目前国内并没有一本对初学者相对友好的书籍。为此，笔者便是想弥补这方面的空白，做一个抛砖引玉的人，帮助大家建立起属于自己的深度学习知识体系，也好让大家在学习路上越走越顺。
 
@@ -44,10 +41,18 @@
 * 微信公众号：阿力阿哩哩 
 ![image](https://github.com/ChileWang0228/Deep-Learning-With-Python/blob/master/images/%E5%BE%AE%E4%BF%A1%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg)
 * [知乎](https://www.zhihu.com/people/bie-ying-xiang-zhi-li/activities)  
-* [BiliBili](https://space.bilibili.com/299585150)  
+* [BiliBili](https://space.bilibili.com/299585150)
+
+
 * 个人微信号：smiletolife9527
 ![image](https://github.com/ChileWang0228/Deep-Learning-With-Python/blob/master/images/%E6%89%AB%E4%B8%80%E6%89%AB%E5%BE%AE%E4%BF%A1.jpg)
 
 # 开源不易，谢谢打赏！
 ![image](https://github.com/ChileWang0228/Deep-Learning-With-Python/blob/master/images/%E5%90%88%E4%BD%93%E6%94%B6%E6%AC%BE.jpg)
 
+
+# 其余书籍
+* Deep-Learning-With-Python [{新书上线啦，可点击此处购买}](https://item.jd.com/13067946.html)
+* 《Python深度学习》数据[{提取码：9527 }](https://pan.baidu.com/s/1RTGmhTg_Fow1vxcF56OOmA)
+
+![image](https://github.com/ChileWang0228/Deep-Learning-With-Python/blob/master/images/Python%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E4%BD%93%E7%B3%BB.png)
